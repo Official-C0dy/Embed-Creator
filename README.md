@@ -1,9 +1,6 @@
 # 🎨 Discord Embed Creator
 
 <div align="center">
-  
-  ![Discord Embed Creator](https://i.imgur.com/2cMNqoq.png)
-  
   [![Discord.js Version](https://img.shields.io/badge/discord.js-v14.13.0-blue.svg)](https://discord.js.org/)
   [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
   [![Author](https://img.shields.io/badge/author-c0dy-orange.svg)](https://github.com/C0dy)
@@ -144,11 +141,3 @@ Embed-Creator/
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-<div align="center">
-  <img src="https://imgur.com/a/VNmtqw4" width="120" height="120" alt="Bot Logo">
-  <br>
-  Developed with ❤️ by <a href="https://github.com/Official-C0dy">C0dy</a>
-</div> 
