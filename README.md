@@ -10,7 +10,8 @@
   
   *A powerful Discord bot for creating, editing, and managing embeds*
 
-  https://ibb.co/yFkS8Bc5
+  ![image](https://github.com/user-attachments/assets/c2548cb5-b06e-47b2-baab-3549c4a4eaef)
+
 </div>
 
 ## 📋 Table of Contents
