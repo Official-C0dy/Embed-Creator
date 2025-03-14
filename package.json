@@ -1,0 +1,17 @@
+{
+    "name": "embed-creator",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "keywords": [],
+    "author": "c0dy",
+    "license": "MIT",
+    "scripts": {
+      "start": "node index.js"
+    },
+    "dependencies": {
+      "discord.js": "^14.13.0",
+      "path": "^0.12.7"
+    }
+  }
+  
