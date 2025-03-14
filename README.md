@@ -1,6 +1,9 @@
 # 🎨 Discord Embed Creator
 
 <div align="center">
+  
+  ![Discord Embed Creator](https://ibb.co/yFkS8Bc5)
+  
   [![Discord.js Version](https://img.shields.io/badge/discord.js-v14.13.0-blue.svg)](https://discord.js.org/)
   [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
   [![Author](https://img.shields.io/badge/author-c0dy-orange.svg)](https://github.com/C0dy)
