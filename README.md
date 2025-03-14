@@ -9,6 +9,8 @@
   [![Author](https://img.shields.io/badge/author-c0dy-orange.svg)](https://github.com/C0dy)
   
   *A powerful Discord bot for creating, editing, and managing embeds*
+
+  https://ibb.co/yFkS8Bc5
 </div>
 
 ## 📋 Table of Contents
