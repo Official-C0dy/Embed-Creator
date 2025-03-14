@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  !Discord Embed Creator
+  Discord Embed Creator
   
   [![Discord.js Version](https://img.shields.io/badge/discord.js-v14.13.0-blue.svg)](https://discord.js.org/)
   [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
