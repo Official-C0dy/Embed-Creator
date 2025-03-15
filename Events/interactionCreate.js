@@ -567,7 +567,7 @@ async function handleCancelEmbed(interaction) {
 
 function saveEmbed(name, embed) {
     try {
-        const embedsFilePath = path.join(__dirname, '../../Database/embeds.json');
+        const embedsFilePath = path.join(__dirname, '../Database/embeds.json');
         
         let embeds = {};
         if (fs.existsSync(embedsFilePath)) {
@@ -590,6 +590,7 @@ function saveEmbed(name, embed) {
             }
             
             fs.writeFileSync(embedsFilePath, JSON.stringify(embeds, null, 2));
+            console.log(`Embed "${name}" saved successfully to ${embedsFilePath}`);
             return true;
         } catch (writeError) {
             console.error('Error writing to embeds.json:', writeError);
